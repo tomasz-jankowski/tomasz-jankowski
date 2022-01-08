@@ -2,7 +2,7 @@
 <h4 align="center">Master's degree at Vision Systems | L1 FPGA Tester with Python @ Nokia Krakow | Web developer wannabe</h4>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasz-jankowski" alt="tomasz-jaekowski" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasz-jankowski" alt="tomasz-jankowski" /></a> </p>
 
 - 🔭 I’m currently working on [University Science Clubs Management Web App](https://github.com/tomasz-jankowski/rkn-latest)
 
@@ -22,5 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasz-jankowski&show_icons=true&locale=en" alt="tomasz-jankowski" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasz-jankowski&" alt="tomasz-jankowski" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasz-jankowski&" alt="tomasz-jankowski" /></p>
 
