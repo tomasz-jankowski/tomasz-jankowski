@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasz-jankowski&show_icons=true&locale=en&layout=compact" alt="tomasz-jankowski" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasz-jankowski&show_icons=true&locale=en" alt="tomasz-jankowski" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasz-jankowski&show_icons=true&locale=en" alt="tomasz-jankowski" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasz-jankowski&" alt="tomasz-jankowski" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomasz-jankowski&" alt="tomasz-jankowski" /></p>
 
