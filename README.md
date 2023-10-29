@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Tomasz</h1>
-<h4 align="center">Master's degree at Vision Systems | L1 FPGA Tester with Python @ Nokia Krakow | Web developer wannabe</h4>
+<h4 align="center">Master's degree at Vision Systems | Automation Leader with Python @ Nokia Krakow | Web developer wannabe</h4>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomasz-jankowski" alt="tomasz-jankowski" /></a> </p> -->
