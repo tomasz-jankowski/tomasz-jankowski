@@ -1,6 +1,7 @@
 <div align="center">
     <h1 align="center">Hi 👋 I'm Tomasz</h1>
-    <h4 align="center">Remote Software Engineer @ Nokia Krakow</h4>
+    <h4 align="center">Consultant @ Machine Learning Reply | Back-end Developer @ Allianz Benelux
+    </h4>
     <a href="https://www.linkedin.com/in/jankowski-dev/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
